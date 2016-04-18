@@ -4,7 +4,7 @@ clean SLiM theme with a blurred out background
 install:
 
 * copy the blurry-clean folder to /usr/share/slim/themes
-* open /etc/slim.conf and insert "current_theme  blurry-clean"
+* open /etc/slim.conf and insert `current_theme  blurry-clean`
 
 intended to work with [wpgtk](https://github.com/deviantfero/wpgtk) and this [script](https://github.com/roqstr/dotfiles/blob/master/script/themechg.py)
 
